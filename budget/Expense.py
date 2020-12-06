@@ -1,4 +1,4 @@
-from . import csv
+import csv
 from datetime import datetime
 
 class Expense():
